@@ -1,4 +1,4 @@
-# Semantic Shakespeare: Exploring Love, Betrayal, and Blood with BigQuery AI
+# Shakespeare Smart Search: Exploring Love, Betrayal, and Blood with BigQuery AI
 
 This project was built for the [BigQuery AI Hackathon 2025](https://kaggle.com/competitions/bigquery-ai-hackathon).  
 It uses **BigQuery AI’s semantic embeddings (Gemini)** to explore Shakespeare’s works — moving beyond keyword search to reveal deeper thematic connections.
