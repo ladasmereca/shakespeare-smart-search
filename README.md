@@ -69,3 +69,4 @@ Embeddings clustered related passages even when exact words were missing.
   - **Yorguss**, _for taking care of me regardless_
   - **Sonny81**, _for making me laugh to the point of crying_
   - **Minnie**, _for not eating the laptop cable, __yet___
+  - **ChatGPT**, _for making this absolutely new process a much, much easier one_
